@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "plla",
+      "email": "jhbljs92@naver.com",
+      "phone": "01044261317",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "mina",
+      "email": "mina@naver.com",
+      "phone": "01098765431",
+      "active": true
+    }
+  ]
+}
